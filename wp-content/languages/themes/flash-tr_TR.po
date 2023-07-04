@@ -1,0 +1,717 @@
+# Translation of Themes - Flash in Turkish
+# This file is distributed under the same license as the Themes - Flash package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-21 06:14:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Flash\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Flash is free responsive multipurpose WordPress theme – truly a versatile theme perfect for any type of website you want. Like never before, it provides multiple pre-built demos which can be imported in seconds using ThemeGrill Demo Importer Plugin. The theme fully integrates with Flash Toolkit and SiteOrigin’s Page Builder Plugin that makes theme more user-friendly and easy. Additionally, theme features multiple blog layouts, WooCommerce support, multiple header styles, multiple color options etc."
+msgstr "Flash istediğiniz her türlü site için işlerinizi görebileceğiniz çok yönlü ücretsiz ve duyarlı bir WordPress temasıdır. ThemeGrill Demo Importer eklentisi ile önceden hazırlanmış demo sitelerden birini kolayca içeri aktarıp bir başlangıç yapabilirsiniz. Tema Flash araç kiti ve SiteOrigin Page Builder eklentisi ile tamamen uyumludur ve bu da temayı daha kullanıcı dostu ve kolay hale getiriyor. Ayrıca tema birden çok blog yerleşimi, WooCommerce desteği, bir çok başlık stili ve çoklu renk seçenekleri vb özelliklerle beraber geliyor."
+
+#. Theme Name of the theme
+#: inc/admin/class-flash-theme-review-notice.php:75
+#: inc/admin/class-flash-welcome-notice.php:46
+#, gp-priority: high
+msgid "Flash"
+msgstr "Flash"
+
+#: inc/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr "Google Yazı Tipleri"
+
+#: inc/extras.php:334
+msgid "Page "
+msgstr "Sayfa"
+
+#. Template Name of the theme
+msgid "Pagebuilder"
+msgstr "Pagebuilder"
+
+#: template-parts/content-page.php:25 template-parts/content.php:67
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka kriterler ile tekrar deneyin."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Ara"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Ara &hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Ara:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:77 template-parts/content-page.php:37
+msgid "Edit %s"
+msgstr "%s düzenle"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59 inc/template-tags.php:67
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:43
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s için</span> bir yorum yapın"
+
+#: inc/meta-boxes.php:57
+msgid "Header Transparency"
+msgstr "Üst kısım transparanlığı"
+
+#: inc/meta-boxes.php:55 inc/meta-boxes.php:56
+msgid "Select Layout"
+msgstr "Düzen seçin"
+
+#: inc/meta-boxes.php:47
+msgid "Non Transparent Header"
+msgstr "Transparan olmayan başlık"
+
+#: inc/meta-boxes.php:42
+msgid "Transparent Header"
+msgstr "Transparan başlık"
+
+#: inc/meta-boxes.php:34
+msgid "Full Width Center"
+msgstr "Tam genişlik ortalı"
+
+#. Template Name of the theme
+#: inc/meta-boxes.php:29
+msgid "Full Width"
+msgstr "Tam genişlik"
+
+#: inc/meta-boxes.php:14
+msgid "Default Layout"
+msgstr "Varsayılan düzen"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr "Bir sayfa seçin"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:180
+#: inc/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr "Başlangıç"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr "Küçük harf"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr "Büyük harf"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr "İlk harf büyük"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:176
+#: inc/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr "Hiç biri"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr "Metin dönüşümü"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr "Metin hizalama"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:227
+msgid "Limit: %s rows"
+msgstr "Sınır: %s satır"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr "satır"
+
+#: inc/kirki/controls/php/class-kirki-control-dimension.php:41
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr "Geçersiz değer"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Kalın 900 Eğik"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Kalın 900"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr "Ekstra-Kalın 800 Eğik"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr "Ekstra-Kalın 800"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr "Kalın 700 Eğik"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:213
+msgid "Bold 700"
+msgstr "Kalın 700"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr "Hafif-Kalın 600 Eğik"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:210
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr "Hafif-Kalın 600"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr "Orta 500 Eğik"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:208
+msgid "Medium 500"
+msgstr "Orta 500"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Eğik"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:205
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:206
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr "Dar 300 Eğik"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:203
+msgid "Book 300"
+msgstr "Dar 300"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr "İnce 200 Eğik"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:201
+msgid "Light 200"
+msgstr "İnce 200"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-İnce 100 Eğik"
+
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:198
+#: inc/kirki/modules/webfonts/class-kirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr "Ultra-İnce 100"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr "Boşuklandırma"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr "Yükseklik"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr "Boyut"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr "Çeşit"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:62
+#: inc/kirki/controls/php/class-kirki-control-base.php:133
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:386
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:418
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:443
+#: inc/kirki/controls/views/image.php:37
+#: inc/kirki/field/class-kirki-field-image.php:50
+msgid "Remove"
+msgstr "Kaldır"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:59
+#: inc/kirki/controls/php/class-kirki-control-base.php:132
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:408
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr "Dosya seçilmedi"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr "Dosya değiştir"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:419
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr "Dosya Ekle"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:376
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr "Görsel seçilmedi"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr "Görseli değiştir"
+
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:387
+#: inc/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr "Görsel ekle"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:221
+msgid "Color"
+msgstr "Renk"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr "İki yana yasla"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: inc/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr "Ortala"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: inc/kirki/controls/php/class-kirki-control-typography.php:157
+#: inc/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr "Sağa yasla"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: inc/kirki/controls/php/class-kirki-control-typography.php:145
+#: inc/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr "Sola yasla"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: inc/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr "Alt"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: inc/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr "Üst"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: inc/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr "Harf aralığı"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr "Yazı tipi stili"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: inc/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr "Satır yüksekliği"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr "Yazı tipi ağırlığı"
+
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: inc/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr "Yazı boyutu"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr "Yazı tipi"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr "Arka plan pozisyonu"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:91
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr "Orta alt"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:90
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr "Orta orta"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:89
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr "Orta üst"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:88
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr "Sağ alt"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:87
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr "Sağ orta"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:86
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr "Sağ üst"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:85
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr "Sol alt"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:84
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr "Sol orta"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:83
+#: inc/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr "Sol üst"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr "Arka plan eki"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr "Kaydır"
+
+#: inc/customizer.php:902 inc/customizer.php:925
+#: inc/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr "Sabit"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr "Arka plan boyutu"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr "İçerir"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr "kapla"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr "Arka plan tekrarı"
+
+#: inc/kirki/controls/php/class-kirki-control-typography.php:139
+#: inc/kirki/controls/php/class-kirki-control-typography.php:181
+#: inc/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr "Miras al"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr "Dikey tekrarla"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr "Yatay tekrarla"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr "Tümünü tekrarla"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr "Tekrar yok"
+
+#: inc/customizer.php:591
+#: inc/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: inc/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr "Arka Plan Rengi"
+
+#: inc/extras.php:366
+msgid "Search Results for: %s"
+msgstr "%s için arama sonuçları"
+
+#: inc/extras.php:364
+msgid "Page NOT Found"
+msgstr "Sayfa bulunaMAdı"
+
+#: inc/extras.php:344
+msgid "404 Error"
+msgstr "404 Hatası"
+
+#: inc/extras.php:339
+msgid "Search results for: "
+msgstr "Şu kriter için arama sonuçları: "
+
+#: inc/extras.php:303
+msgid "jS"
+msgstr "j"
+
+#: inc/extras.php:300 inc/extras.php:303 inc/extras.php:313
+msgid "M"
+msgstr "P"
+
+#: inc/extras.php:297 inc/extras.php:300 inc/extras.php:310 inc/extras.php:318
+msgid "Y"
+msgstr "Y"
+
+#: inc/extras.php:155
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: inc/extras.php:134
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/extras.php:134
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/extras.php:131
+msgid "Copyright %1$s %2$s"
+msgstr "%1$s %2$s Tüm hakları saklıdır"
+
+#: inc/customizer.php:1394
+msgid "Yellow"
+msgstr "Sarı"
+
+#: inc/customizer.php:1385
+msgid "Red"
+msgstr "Kırmızı"
+
+#: inc/customizer.php:1376
+msgid "Gray"
+msgstr "Gri"
+
+#: inc/customizer.php:1367
+msgid "Dark"
+msgstr "Koyu"
+
+#: inc/customizer.php:1358
+#: inc/kirki/controls/php/class-kirki-control-base.php:134
+#: inc/kirki/controls/views/image.php:36
+#: inc/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr "Varsayılan"
+
+#: inc/customizer.php:970
+msgid "Custom CSS"
+msgstr "İsteğe Bağlı CSS"
+
+#: inc/customizer.php:537
+msgid "Sticky Header"
+msgstr "Sabir başlık"
+
+#: inc/customizer.php:428
+msgid "Top Header Text Content"
+msgstr "Üst kısım metin içeriği"
+
+#: inc/customizer.php:384 inc/customizer.php:410 inc/customizer.php:496
+#: inc/customizer.php:522 inc/customizer.php:631 inc/customizer.php:823
+#: inc/customizer.php:848 inc/customizer.php:936 inc/customizer.php:1012
+msgid "Disable"
+msgstr "Etkisizleştir"
+
+#: inc/customizer.php:382 inc/customizer.php:408
+msgid "Social Menu"
+msgstr "Sosyal Menü"
+
+#: inc/customizer.php:113
+msgid "Boxed Layout"
+msgstr "Kutulu yerleşim"
+
+#: inc/customizer.php:112
+msgid "Wide Layout"
+msgstr "Geniş yerleşim"
+
+#: inc/customizer.php:94
+msgid "Site Layout"
+msgstr "Site düzeni"
+
+#: inc/customizer.php:285
+msgid "Transparent Logo"
+msgstr "Transparan logo"
+
+#: inc/admin/class-flash-dashboard.php:101
+msgid "Got theme support question?"
+msgstr "Tema desteği sorunuz mu var?"
+
+#: inc/admin/class-flash-dashboard.php:92
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: inc/admin/class-flash-welcome-notice.php:26
+#: inc/class-flash-site-library.php:102
+msgid "Get started with Flash"
+msgstr "Flash ile işe başlayın"
+
+#: inc/admin/class-flash-notice.php:63 inc/admin/class-flash-notice.php:82
+#: inc/admin/class-flash-welcome-notice.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Hile mi yapıyorsun?"
+
+#: inc/admin/class-flash-notice.php:59 inc/admin/class-flash-notice.php:78
+#: inc/admin/class-flash-theme-review-notice.php:153
+#: inc/admin/class-flash-theme-review-notice.php:171
+#: inc/admin/class-flash-welcome-notice.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "İşlem başarısız. Lütfen sayfayı yenileyin ve tekrar deneyin."
+
+#: header.php:59
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: functions.php:206
+msgid "Add widgets here for footer sidebar 4."
+msgstr "Alt kısım yan çubuğu 4 için bileşenleri buraya ekleyin."
+
+#: functions.php:204
+msgid "Footer Sidebar 4"
+msgstr "Alt kısım yan sütunu 4"
+
+#: functions.php:196
+msgid "Add widgets here for footer sidebar 3."
+msgstr "Alt kısım yan çubuğu 3 için bileşenleri buraya ekleyin."
+
+#: functions.php:194
+msgid "Footer Sidebar 3"
+msgstr "Alt kısım yan sütunu 3"
+
+#: functions.php:186
+msgid "Add widgets here for footer sidebar 2."
+msgstr "Alt kısım yan çubuğu 2 için bileşenleri buraya ekleyin."
+
+#: functions.php:184
+msgid "Footer Sidebar 2"
+msgstr "Alt kısım yan sütunu 2"
+
+#: functions.php:176
+msgid "Add widgets here for footer sidebar 1."
+msgstr "Alt kısım yan çubuğu 1 için bileşenleri buraya ekleyin."
+
+#: functions.php:174
+msgid "Footer Sidebar 1"
+msgstr "Alt kısım yan sütunu 1"
+
+#: functions.php:166
+msgid "Add widgets here for left sidebar."
+msgstr "Sol yan sütun için bileşenleri buradan ekleyin"
+
+#: functions.php:164 inc/meta-boxes.php:24
+msgid "Left Sidebar"
+msgstr "Sol yan sütun"
+
+#: functions.php:156
+msgid "Add widgets here for right sidebar."
+msgstr "Sağ yan sütun için bileşenleri buradan ekleyin"
+
+#: functions.php:154 inc/meta-boxes.php:19
+msgid "Right Sidebar"
+msgstr "Sağ yan sütun"
+
+#: functions.php:61 inc/customizer.php:859
+msgid "Footer"
+msgstr "Alt Kısım"
+
+#: functions.php:60
+msgid "Social"
+msgstr "Sosyal"
+
+#: functions.php:59
+msgid "Primary"
+msgstr "Birincil"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:57 comments.php:79
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: comments.php:56 comments.php:78
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:53 comments.php:75
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için %1$s yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yorum"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; için bir yorum"
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada hiçbir şeyin bulunmadığı görülüyor. Belki alttaki bağlantılardan birini veya bir arama yapmayı denemelisin?"
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Off! Bu sayfa bulunamadı."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themegrill.com/themes/flash"
+msgstr "https://themegrill.com/themes/flash"
